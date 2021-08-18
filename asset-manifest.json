@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CurvedDiv/static/css/main.1e4535ad.chunk.css",
+    "main.js": "/CurvedDiv/static/js/main.4e573467.chunk.js",
+    "main.js.map": "/CurvedDiv/static/js/main.4e573467.chunk.js.map",
+    "runtime-main.js": "/CurvedDiv/static/js/runtime-main.804cc1c1.js",
+    "runtime-main.js.map": "/CurvedDiv/static/js/runtime-main.804cc1c1.js.map",
+    "static/js/2.51cc450f.chunk.js": "/CurvedDiv/static/js/2.51cc450f.chunk.js",
+    "static/js/2.51cc450f.chunk.js.map": "/CurvedDiv/static/js/2.51cc450f.chunk.js.map",
+    "index.html": "/CurvedDiv/index.html",
+    "precache-manifest.3101215e099a8c884b5ac32f7a9e8ca2.js": "/CurvedDiv/precache-manifest.3101215e099a8c884b5ac32f7a9e8ca2.js",
+    "service-worker.js": "/CurvedDiv/service-worker.js",
+    "static/css/main.1e4535ad.chunk.css.map": "/CurvedDiv/static/css/main.1e4535ad.chunk.css.map",
+    "static/js/2.51cc450f.chunk.js.LICENSE.txt": "/CurvedDiv/static/js/2.51cc450f.chunk.js.LICENSE.txt",
+    "static/media/CurvedDiv.css": "/CurvedDiv/static/media/2038478.8f9d3ef5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.804cc1c1.js",
+    "static/js/2.51cc450f.chunk.js",
+    "static/css/main.1e4535ad.chunk.css",
+    "static/js/main.4e573467.chunk.js"
+  ]
+}
